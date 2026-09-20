@@ -1,0 +1,7 @@
+{
+  "name": "Dragon 9 Synchronized Time Studio",
+  "description": "Mobile container rendering pipeline orchestrator, automated stand-up comedy localization engine, and ElevenLabs 432Hz voice stem synchronization suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
